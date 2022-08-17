@@ -1,2 +1,3 @@
-# PL-SQL-pkg-zipper
+# PL/SQL package zipper
+
 Create ZIP files with PL/SQL
